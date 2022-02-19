@@ -1,4 +1,4 @@
-## Opa, tranquilo? Francisco Souza -Bender- aqui!
+## Opa, tranquilo? Francisco Souza -Bender- aqui! 😄
 <br><br>
 <div align="left">
   <a href="https://github.com/BenderMaster">
@@ -30,6 +30,7 @@
 
 
 <br>
+
 - 😄 Pronouns: Ele/dele
 
 <br><br>
