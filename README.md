@@ -1,16 +1,43 @@
-### Hi there 👋
+## Opa, tranquilo? Francisco Souza -Bender- aqui!
+<br><br>
+<div align="left">
+  <a href="https://github.com/BenderMaster">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenderMaster&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+    </a>
+</div>
 
-<!--
-**BenderMaster/BenderMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou estudando:
+
+<div align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=60px width=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=60px width=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=60px width=60px/>
+
+  
+</div>
+<br>
+
+
+  
+- 🤔 Pretendo estudar:
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=60px width=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=60px width=60px/>
+
+
+<br>
+- 😄 Pronouns: Ele/dele
+
+<br><br>
+
+<div>
+<a href="mailto:franciscodeassissouza21@gmail.com" taget="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" taget="blank"></a>
+  <a href="https://www.linkedin.com/in/francisco-de-assis-souza/" taget="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=blank"></a>
+  
+  
+  
+</div>
