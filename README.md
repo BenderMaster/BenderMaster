@@ -1,12 +1,5 @@
 ## Opa, tranquilo? Francisco Souza -Bender- aqui! 😄
 <br><br>
-<div align="left">
-  <a href="https://github.com/BenderMaster">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenderMaster&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
-    </a>
-</div>
-
-<br>
 
 
 - 🌱 Estou estudando:
